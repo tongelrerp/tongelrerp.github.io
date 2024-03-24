@@ -1,7 +1,7 @@
 /* Basisstijlen */
 html {
     scroll-behavior: smooth;
-    background-color: #4a2d73;
+    background-color: #575204;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
     letter-spacing: 0.2px;
     color: #fff;
     margin: 0;
-    background-color: #4a2d73; /* Een donkerpaarse achtergrondkleur */
+    background-color: #575204; /* Een donkerpaarse achtergrondkleur */
 }
 
 h1, h2 {
@@ -20,7 +20,7 @@ h1 {
     font-size: 39px;
     line-height: 42px;
     margin-bottom: 50px;
-    color: #e6c1ff; /* Lichtpaars voor headers */
+    color: #c7be15; /* Lichtpaars voor headers */
 }
 
 li {
@@ -31,7 +31,7 @@ h2 {
     font-size: 28px;
     line-height: 30px;
     text-align: center;
-    color: #e6c1ff;
+    color: #c7be15;
     margin-block-start: 40px;
     margin-block-end: 30px;
     margin-inline-start: 0px;
@@ -45,19 +45,19 @@ p {
 
 a {
     text-decoration: none;
-    color: #b589d6; /* Medium paars voor links */
+    color: #f3e62b; /* Medium paars voor links */
 }
 
 a:hover {
     text-decoration: underline;
-    color: #e6c1ff;
+    color: #c7be15;
 }
 
 /* Navbar stijlen */
 .navbar {
     overflow: hidden;
-    background-color: #6c43a1; /* Een medium-donkerpaarse kleur voor de navbar */
-    color: #e6c1ff;
+    background-color: #c7be15; /* Een medium-donkerpaarse kleur voor de navbar */
+    color: #c7be15;
     top: 0;
     width: 100%;
     height: 70px;
@@ -70,12 +70,12 @@ a:hover {
 
 .navbar a {
     margin-right: 40px;
-    color: #e6c1ff;
+    color: #c7be15;
 }
 
 .navbar a:active {
     text-decoration: underline;
-    color: #b589d6;
+    color: #f3e62b;
 }
 
 .right a {
@@ -87,17 +87,17 @@ a:hover {
 }
 
 .top {
-    background-color: #b589d6;
+    background-color: #f3e62b;
     height: 650px;
 }
 
 .clear {
-    background-color: #292430;
+    background-color: #242325;
     height: auto;
 }
 
 .nav-top {
-    border-top: 8px solid #b589d6;
+    border-top: 8px solid #f3e62b;
 }
 
 .row {
@@ -118,7 +118,7 @@ a:hover {
 .sidepanel {
     width: 200px;
     margin-top: 120px;
-    background-color: #292430;
+    background-color: #242325;
     overflow-x: hidden;
     position: fixed;
     height: 80%;
@@ -131,13 +131,13 @@ a:hover {
     font-weight: 600;
     text-align: left;
     text-decoration: none;
-    color: #b589d6;
+    color: #f3e62b;
     display: block;
     padding-bottom: 12px;
 }
 
 h4{
-    color:#a48cc4;
+    color:#c7be15;
 }
 
 .sidepanel a.section {
@@ -148,7 +148,7 @@ h4{
     line-height: 30px;
     display: block;
     text-decoration: none;
-    color: #b589d6;
+    color: #f3e62b;
 }
 
 .sidepanel a.sub-section {
@@ -158,7 +158,7 @@ h4{
     line-height: 25px;
     display: block;
     text-decoration: none;
-    color: #b589d6;
+    color: #f3e62b;
     padding-left: 20px;
 
 }
@@ -259,12 +259,12 @@ h4{
     width: 100%;
     padding: 90px 0 20px;
     font-size: 15px;
-    background-color: #292430;
+    background-color: #242325;
 }
 
 
 .footer a {
-    color: #b589d6;
+    color: #f3e62b;
 }
 
 .resp-break {
